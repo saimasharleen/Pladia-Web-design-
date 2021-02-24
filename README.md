@@ -1,5 +1,3 @@
 # Pladia-Web-design-
 Used HTML,CSS, jQuery,Bootstrap
-![alt text](http://url/to/image.png)\
-![Alt text](relative/path/to/image.png?raw=true "Title")
-![alt text](https://github.com/[saimasharleen]/[Pladia-Web-design-]/blob/[master]/image.png?raw=true)
+![image](https://user-images.githubusercontent.com/20836115/109068378-fac47980-7719-11eb-8ecf-2b292220aee3.png)
